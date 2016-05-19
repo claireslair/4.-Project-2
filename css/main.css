@@ -96,15 +96,15 @@ ul {
 	float: left;
 	width: 45%;
 	margin: 2.5%;
-	background-color: #f5f5f5;
+	background-color: #FFEBCF;
 	color: #bdc3c7;
 }
 
 #gallery li a p {
 	margin: 0;
 	padding: 5%;
-	font-size: 0.75em;
-	color: #bdc3c7;
+	font-size: 0.70em;
+	color: #535369;
 }
 
 /* PAGE: ABOUT */
@@ -135,15 +135,15 @@ ul {
 }
 
 .contact-info li.phone a{
-	background-image: url('./images/phone.png'); 
+	background-image: url('../images/phone.png'); 
 }
 
 .contact-info li.mail a{
-	background-image: url('./images/mail.png'); 
+	background-image: url('../images/mail.png'); 
 }
 
 .contact-info li.twitter a{
-	background-image: url('./images/twitter.png'); 
+	background-image: url('../images/twitter.png'); 
 }
 
 
@@ -156,12 +156,12 @@ body {
 }
 
 header {
-	background: #6ab47b;
+	background: #987583;
 	border-color: #599a68;
 }
 
 nav {
-	background: #599a68;
+	background: #E7D5E3;
 }
 
 h1, h2 {
@@ -169,7 +169,7 @@ h1, h2 {
 }
 
 a {
-	color: #6ab47b;
+	color: #418B8D;
 }
 
 nav a, nav a:visited {
@@ -177,5 +177,5 @@ nav a, nav a:visited {
 }
 
 nav a.selected, nav a:hover {
-	color: #32673f;
+	color: #535369;
 }
